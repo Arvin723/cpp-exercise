@@ -1,0 +1,12 @@
+打印组合数 C(n,m):
+void combination(int n, int m, int *ar, int s)
+
+参数s必须是0，表示使用时从ar[0]开始写数
+
+eg: C(5,3)
+int ar[3];
+combination(5, 3, ar, int 0);
+
+将会打印：
+543，542，541，532，531，521，432，431，421，321
+

@@ -1,0 +1,14 @@
+#include<io.h>
+#include<iostream>
+#include<string>
+#include<stdlib.h>
+#include<vector>
+#include<string.h>
+#include<stdio.h>
+#include<sstream>
+#include<fstream>
+#include<time.h>
+
+#define NUMOFALINE 150
+
+
